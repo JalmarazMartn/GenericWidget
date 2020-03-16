@@ -1,11 +1,11 @@
 controladdin "Generic widget"
 {
-    RequestedHeight = 900;
-    MinimumHeight = 900;
-    MaximumHeight = 900;
-    RequestedWidth = 300;
-    MinimumWidth = 300;
-    MaximumWidth = 700;
+    RequestedHeight = 400;
+    MinimumHeight = 400;
+    MaximumHeight = 400;
+    RequestedWidth = 800;
+    MinimumWidth = 800;
+    MaximumWidth = 800;
     VerticalStretch = true;
     VerticalShrink = true;
     HorizontalStretch = true;
