@@ -22,12 +22,6 @@
       "publisher": "Microsoft",
       "name": "Base Application",
       "version": "15.0.0.0"
-    },
-    {
-      "appId": "5b34bf2c-7dfc-4d1c-8d37-b1ccb643e747",
-      "publisher": "Default publisher",
-      "name": "CloudMersiveNaturalL",
-      "version": "1.0.0.0"
     }
   ],
   "screenshots": [],
